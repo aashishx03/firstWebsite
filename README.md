@@ -26,6 +26,7 @@ This is first website made by using simple html and css
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- grid
 
 ### What I learned
 
